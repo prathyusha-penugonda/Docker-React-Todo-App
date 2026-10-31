@@ -296,6 +296,7 @@ function App() {
             Add Task
           </button>
         </div>
+        
 
         {/* Todo Statistics */}
         <div className="stats">
